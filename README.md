@@ -1,5 +1,5 @@
 #  About Me:
-I am Shinrai.
+I am Shin (Shinrai)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1427357393989144757) 
