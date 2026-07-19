@@ -5,10 +5,10 @@ I am Shin (Shinrai)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1427357393989144757) 
 
 ## 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat&logo=ClipStudioPaint&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ## 🗃 Repositories:
-Yokai Watch Wiki (currently private)
+[Universal Roblox Soft Aim](https://github.com/gitShinrai/UniversalSoftAim)
 
 ## 📨 Contact Me:
 *via Email:* shinrai.contact@proton.me
